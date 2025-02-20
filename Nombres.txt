@@ -1,5 +1,7 @@
 Hector
 Fer #1
+Hector
+Adrian
 Daria
 Héctor
 Luis Cortés
@@ -7,3 +9,4 @@ Gaby
 Dany
 Litzy
 Max
+Alex
