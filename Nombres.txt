@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hector
 Max
+=======
+Héctor
+Luis Cortés
+>>>>>>> origin/main
