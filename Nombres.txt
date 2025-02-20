@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-Hector
-Max
-=======
+Daria
 Héctor
 Luis Cortés
->>>>>>> origin/main
+Gaby
+Dany
+Litzy
