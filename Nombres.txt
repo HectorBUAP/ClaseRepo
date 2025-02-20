@@ -1,3 +1,7 @@
 Hector
+<<<<<<< HEAD
 
 Levi
+=======
+Daria
+>>>>>>> origin/main
